@@ -9,7 +9,7 @@
 - Set parameters and the save path (./out/AFNet/) in the options_cod.py file, then run the train.py file.
 
 # 3 Testing Configuration:
-- After you download all the pre-trained model and testing dataset, just run PEMFNet_test_cod.py to generate the final prediction map.
+- After you download all the pre-trained model and testing dataset, just run test.py to generate the final prediction map.
 
 # 4 Evaluating your trained model:
 Assigning your costumed path, like method, mask_root and pred_root in eval.py. Just run eval.py to evaluate the trained model.
